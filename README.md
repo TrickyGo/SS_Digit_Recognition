@@ -5,6 +5,7 @@
   2. local_client.py : 本地读取验证码图片，然后调用服务器接口
   3. server_config.json 配置文件，放在同一目录下即可
   4. flask_web.py by 盛禹 8.27
+  5. templates/index.html by 盛禹 8.27
   
 ## 实验部分：
 ### 文件说明：
